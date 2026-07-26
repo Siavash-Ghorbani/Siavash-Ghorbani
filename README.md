@@ -2,7 +2,7 @@
 
 I'm a **Structural Engineer** with more than 10 years of experience in the design and supervision of reinforced-concrete and steel structures. Alongside structural engineering, I develop practical software tools that make engineering workflows faster, clearer, and less repetitive.
 
-## Structural Engineering & Software Development
+## 🏗️ Structural Engineering & Software Development
 
 My work combines engineering knowledge with programming, mainly around:
 
@@ -12,7 +12,7 @@ My work combines engineering knowledge with programming, mainly around:
 - Desktop application development with **VB.NET and .NET**
 - Automation and engineering scripting with **Python**
 
-## Selected Projects
+## 🛠️ Selected Projects
 
 - **Beam Torsion Modifier – Tu/Tcr**  
   An ETABS plugin for evaluating beam torsional demand against the ACI 318 cracking-torsion threshold and managing torsional stiffness modifiers.
@@ -26,16 +26,16 @@ My work combines engineering knowledge with programming, mainly around:
 - **CivilProgramming License Framework**  
   A reusable licensing system developed for engineering desktop applications and plugins.
 
-You can also explore my public ETABS work in the [ETABS Plugins repository](https://github.com/Siavash-Ghorbani/etabs-plugins).
+📢 My engineering plugins, tools, demonstrations, and release updates are available on the [Civil Programming Telegram channel](https://t.me/Civil_Programming).
 
-## Technologies
+## 💻 Technologies
 
 `ETABS API` · `SAFE API` · `VB.NET` · `.NET` · `Python` · `FreeCAD` · `AutoCAD` · `Git`
 
-## Connect with Me
+## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ghorbani-siavash)
-- [Civil Programming on Telegram](https://t.me/Civil_Programming) — engineering plugins, tools, and updates
+- [LinkedIn](https://www.linkedin.com/in/ghorbani-siavash79)
+- [Civil Programming on Telegram](https://t.me/Civil_Programming)
 
 ---
 
