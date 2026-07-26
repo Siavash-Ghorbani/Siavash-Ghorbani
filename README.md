@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Siavash Ghorbani 👋
 
-<!--
-**Siavash-Ghorbani/Siavash-Ghorbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Structural Engineer** with more than 10 years of experience in the design and supervision of reinforced-concrete and steel structures. Alongside structural engineering, I develop practical software tools that make engineering workflows faster, clearer, and less repetitive.
 
-Here are some ideas to get you started:
+## Structural Engineering & Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work combines engineering knowledge with programming, mainly around:
+
+- Structural analysis and design using **ETABS** and **SAFE**
+- Engineering plugins and automation tools for **ETABS, SAFE, FreeCAD, and AutoCAD**
+- 3D structural model generation and engineering data exchange
+- Desktop application development with **VB.NET and .NET**
+- Automation and engineering scripting with **Python**
+
+## Selected Projects
+
+- **Beam Torsion Modifier – Tu/Tcr**  
+  An ETABS plugin for evaluating beam torsional demand against the ACI 318 cracking-torsion threshold and managing torsional stiffness modifiers.
+
+- **ETABS–FreeCAD Bridge**  
+  A workflow for transferring structural data from ETABS and generating three-dimensional reinforced-concrete models in FreeCAD, with STEP and DXF output for CAD workflows.
+
+- **SAFE Envelope Combo Builder**  
+  A tool for creating and managing envelope load combinations in SAFE.
+
+- **CivilProgramming License Framework**  
+  A reusable licensing system developed for engineering desktop applications and plugins.
+
+You can also explore my public ETABS work in the [ETABS Plugins repository](https://github.com/Siavash-Ghorbani/etabs-plugins).
+
+## Technologies
+
+`ETABS API` · `SAFE API` · `VB.NET` · `.NET` · `Python` · `FreeCAD` · `AutoCAD` · `Git`
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ghorbani-siavash)
+- [Civil Programming on Telegram](https://t.me/Civil_Programming) — engineering plugins, tools, and updates
+
+---
+
+*I build engineering tools around real structural-design needs.*
