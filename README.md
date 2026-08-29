@@ -9,18 +9,18 @@
   <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏗️ V5th2800 — ETABS 23 Plugin
+### 🔹 V5th2800 — ETABS 23 Plugin
 Earthquake coefficient and seismic design calculations based on the **5th Edition of Iran Standard 2800**, with automated calculation reports.
 
-### ⚙️ Beam Torsion Modifier — Tu/Tcr
+### 🔹 Beam Torsion Modifier — Tu/Tcr
 ETABS plugin for evaluating beam torsional demand and cracking thresholds based on **ACI 318-19**.
 
-### 🔗 ETABS–FreeCAD Bridge
+### 🔹 ETABS–FreeCAD Bridge
 Transfers structural data from ETABS to FreeCAD and generates **3D reinforced-concrete models** with STEP and DXF output.
 
-### 🧩 SAFE Envelope Combo Builder
+### 🔹 SAFE Envelope Combo Builder
 Automates the creation and management of envelope load combinations in SAFE.
 
 ---
@@ -29,3 +29,5 @@ Automates the creation and management of envelope load combinations in SAFE.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siavash_Ghorbani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghorbani-siavash79)
 [![Telegram](https://img.shields.io/badge/Telegram-Civil_Programming-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Civil_Programming)
+
+> **Engineering knowledge + programming = practical tools for real structural-design workflows.**
