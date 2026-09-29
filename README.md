@@ -1,6 +1,6 @@
 # Hi, I'm Siavash Ghorbani 👋
 
-**Structural Engineer & Software Developer** building practical tools for **structural engineering automation**.
+**Structural Engineer & Software Developer** building practical software for **engineering automation and real-world management workflows**.
 
 <p align="left">
   <img src="https://img.shields.io/badge/ETABS-API-1f6feb?style=flat-square" alt="ETABS API" />
@@ -13,6 +13,9 @@
 
 ### 🔹 V5th2800 — ETABS 23 Plugin
 Earthquake coefficient and seismic design calculations based on the **5th Edition of Iran Standard 2800**, with automated calculation reports.
+
+### 🔹 Club Café Management System — In Development
+A **Persian RTL management system** for sports-club cafés and buffets, designed as an **independent deployment for each club** with secure customer access and auditable admin actions.
 
 ### 🔹 Beam Torsion Modifier — Tu/Tcr
 ETABS plugin for evaluating beam torsional demand and cracking thresholds based on **ACI 318-19**.
